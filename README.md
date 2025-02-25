@@ -1,2 +1,2 @@
-# Chivasjohnsonasc.github.io
+# cjohnsonasc.github.io
 Website for phy131
